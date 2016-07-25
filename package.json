@@ -1,0 +1,24 @@
+{
+  "name": "stream-n-way",
+  "version": "1.0.0",
+  "description": "N-way splitter for streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karmadude/stream-n-way.git"
+  },
+  "keywords": [
+    "streams",
+    "readable",
+    "split",
+    "fork"
+  ],
+  "author": "Liji Jinaraj <karmadude@gmail.com> (http://liji.jinaraj.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
